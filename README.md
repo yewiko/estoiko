@@ -2,5 +2,5 @@
 personal repo
 
 ## strucure 
-### - custom/...
+### - ~custom/...~
 - contains custom .h files, like debug.h
